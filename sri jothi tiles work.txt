@@ -1,0 +1,315 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sri Jothi Tiles Works | Athangudi Tiles</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+
+<header>
+    <nav class="navbar">
+
+        <a href="#home" class="logo">
+            <img src="images/logo.png" alt="SJW Logo">
+            <span>SRI JOTHI<br><small>TILES WORKS</small></span>
+        </a>
+
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#collection">Collections</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+
+        <a href="#contact" class="nav-btn">Get In Touch</a>
+
+    </nav>
+</header>
+
+
+<!-- HOME SECTION -->
+
+<section id="home" class="hero">
+
+    <div class="hero-content">
+
+        <p class="gold-text">WELCOME TO SRI JOTHI TILES WORKS</p>
+
+        <h1>
+            TRADITIONAL BEAUTY<br>
+            <span>TIMELESS ELEGANCE</span>
+        </h1>
+
+        <p class="hero-description">
+            Discover the beauty of traditional Athangudi tiles.
+            Bringing heritage, craftsmanship and elegance
+            to your dream spaces.
+        </p>
+
+        <div class="hero-buttons">
+            <a href="#collection" class="gold-btn">Explore Collection</a>
+            <a href="#contact" class="outline-btn">Contact Us</a>
+        </div>
+
+    </div>
+
+    <div class="hero-overlay"></div>
+
+</section>
+
+
+<!-- ABOUT SECTION -->
+
+<section id="about" class="about section-padding">
+
+    <div class="section-heading">
+        <p>OUR STORY</p>
+        <h2>About Our Business</h2>
+        <div class="line"></div>
+    </div>
+
+    <div class="about-container">
+
+        <div class="about-image">
+            <img src="images/workshop.jpg" alt="Sri Jothi Tiles Workshop">
+        </div>
+
+        <div class="about-content">
+
+            <h2>Preserving Traditional Art</h2>
+
+            <p>
+                Sri Jothi Tiles Works is located on Palavangudi
+                Main Road, Athangudi – 630101.
+            </p>
+
+            <p>
+                We showcase beautiful traditional Athangudi
+                tile designs that bring artistic elegance
+                and heritage to homes and buildings.
+            </p>
+
+            <p>
+                Our aim is to bring traditional tile beauty
+                into modern living spaces.
+            </p>
+
+            <a href="#contact" class="gold-btn">Know More</a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- COLLECTION SECTION -->
+
+<section id="collection" class="collection section-padding">
+
+    <div class="section-heading">
+        <p>OUR DESIGNS</p>
+        <h2>Our Tile Collections</h2>
+        <div class="line"></div>
+    </div>
+
+    <div class="collection-grid">
+
+        <div class="tile-card">
+            <img src="images/tile-design.jpg" alt="Traditional Athangudi Tiles">
+            <div class="tile-info">
+                <h3>Traditional Athangudi Tiles</h3>
+                <p>Beautiful heritage-inspired patterns.</p>
+            </div>
+        </div>
+
+        <div class="tile-card">
+            <img src="images/showroom.jpg" alt="Decorative Tile Designs">
+            <div class="tile-info">
+                <h3>Decorative Tiles</h3>
+                <p>Elegant designs for beautiful spaces.</p>
+            </div>
+        </div>
+
+        <div class="tile-card">
+            <img src="images/factory.jpg" alt="Tile Manufacturing">
+            <div class="tile-info">
+                <h3>Traditional Craftsmanship</h3>
+                <p>Explore our workshop and tile work.</p>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- WHY CHOOSE US -->
+
+<section class="features section-padding">
+
+    <div class="section-heading">
+        <p>OUR SPECIALITY</p>
+        <h2>Why Choose Us?</h2>
+        <div class="line"></div>
+    </div>
+
+    <div class="feature-grid">
+
+        <div class="feature-card">
+            <h3>✦ Traditional Designs</h3>
+            <p>Beautiful patterns inspired by heritage.</p>
+        </div>
+
+        <div class="feature-card">
+            <h3>✦ Unique Collections</h3>
+            <p>Discover decorative and artistic tiles.</p>
+        </div>
+
+        <div class="feature-card">
+            <h3>✦ Customer Focus</h3>
+            <p>We value customer satisfaction.</p>
+        </div>
+
+        <div class="feature-card">
+            <h3>✦ Heritage Craft</h3>
+            <p>Traditional Athangudi tile identity.</p>
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- GALLERY SECTION -->
+
+<section id="gallery" class="gallery section-padding">
+
+    <div class="section-heading">
+        <p>OUR WORK</p>
+        <h2>Photo Gallery</h2>
+        <div class="line"></div>
+    </div>
+
+    <div class="gallery-grid">
+
+        <img src="images/tile-design.jpg" alt="Tile design">
+        <img src="images/workshop.jpg" alt="Workshop">
+        <img src="images/showroom.jpg" alt="Tile showroom">
+        <img src="images/factory.jpg" alt="Factory">
+        <img src="images/entrance.jpg" alt="Business entrance">
+
+    </div>
+
+</section>
+
+
+<!-- CONTACT SECTION -->
+
+<section id="contact" class="contact section-padding">
+
+    <div class="section-heading">
+        <p>GET IN TOUCH</p>
+        <h2>Contact Our Business</h2>
+        <div class="line"></div>
+    </div>
+
+    <div class="contact-container">
+
+        <div class="contact-card">
+
+            <h3>Business Information</h3>
+
+            <p><strong>Business Name:</strong><br>
+            Sri Jothi Tiles Works</p>
+
+            <p><strong>Contact Persons:</strong><br>
+            P. Ayyappan<br>
+            A. Hari Haran<br>
+            A. Santhosh Kumar</p>
+
+            <p><strong>Address:</strong><br>
+            Palavangudi Main Road,<br>
+            Athangudi – 630101</p>
+
+            <p><strong>Phone:</strong><br>
+            <a href="tel:9443403382">9443403382</a><br>
+            <a href="tel:8754703382">8754703382</a></p>
+
+            <p><strong>Email:</strong><br>
+            <a href="mailto:jothitilesayyappan@gmail.com">
+            jothitilesayyappan@gmail.com</a></p>
+
+            <a class="gold-btn"
+               href="https://maps.app.goo.gl/YyScfEf1LqiUQJRe8?g_st=aw"
+               target="_blank">
+               View Google Maps
+            </a>
+
+        </div>
+
+        <div class="contact-image">
+            <img src="images/entrance.jpg" alt="Sri Jothi Tiles Works">
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- FOOTER -->
+
+<footer>
+
+    <img src="images/logo.png" alt="SJW Logo">
+
+    <h2>SRI JOTHI TILES WORKS</h2>
+
+    <p>Traditional Beauty | Timeless Elegance</p>
+
+    <div class="footer-links">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#collection">Collections</a>
+        <a href="#contact">Contact</a>
+    </div>
+
+    <p class="copyright">
+        © 2026 Sri Jothi Tiles Works.
+        All Rights Reserved.
+    </p>
+
+</footer>
+
+<a href="https://wa.me/918754703382"
+   class="whatsapp"
+   target="_blank"
+   aria-label="Chat on WhatsApp">
+   WhatsApp
+</a>
+
+</body>
+</html>Sri-Jothi-Tiles-Website/
+│
+├── index.html
+├── style.css
+│
+└── images/
+    ├── logo.png
+    ├── tile-design.jpg
+    ├── workshop.jpg
+    ├── showroom.jpg
+    ├── factory.jpg
+    └── entrance.jpg
